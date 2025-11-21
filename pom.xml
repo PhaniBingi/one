@@ -28,7 +28,7 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://3.83.43.157:8081/repository/DeployJava/</url>
+		    <url>http://34.208.218.12:8080/repository/sample-snapshots/</url>
 		 </snapshotRepository>
 		
 		<repository>
