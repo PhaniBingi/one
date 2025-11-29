@@ -786,7 +786,7 @@
     <!-- Header -->
     <header>
         <div class="container header-container">
-            <a href="#" class="logo">Shop Page</span></a>
+            <a href="#" class="logo">Shopers Page</span></a>
             
             <nav id="mainNav">
                 <ul>
@@ -803,7 +803,7 @@
                         </div>
                     </li>
                     <li><a href="#"><i class="fas fa-fire"></i> Trending</a></li>
-                    <li><a href="#"><i class="fas fa-percent"></i> Deals</a></li>
+                    <li><a href="#"><i class="fas fa-percent"></i> Best Deals</a></li>
                     <li><a href="#"><i class="fas fa-info-circle"></i> About</a></li>
                     <li><a href="#"><i class="fas fa-envelope"></i> Contact</a></li>
                 </ul>
@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Summer Collection 2026 Version-1</h1>
+            <h1>Summer Collection 2026 Version-2</h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 40% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
