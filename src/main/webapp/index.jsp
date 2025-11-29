@@ -786,7 +786,7 @@
     <!-- Header -->
     <header>
         <div class="container header-container">
-            <a href="#" class="logo">Shopping Page</span></a>
+            <a href="#" class="logo">Shop Page</span></a>
             
             <nav id="mainNav">
                 <ul>
@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Summer Collection 2026</h1>
+            <h1>Summer Collection 2026 Version-1</h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 40% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
@@ -845,8 +845,8 @@
         <div class="categories">
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-mobile-alt"></i></div>
-                <h3>Smartphones</h3>
-                <p>Latest models from top brands</p>
+                <h3>Monile phones</h3>
+                <p>Latest models from best brands</p>
             </div>
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-laptop"></i></div>
