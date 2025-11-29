@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://44.223.74.57:8081/repository/JavaDeploy/</url>
+		    <url>http://3.231.164.115:8081/repository/JavaDeploy/</url>
 		</repository>
   	</distributionManagement>
 	
