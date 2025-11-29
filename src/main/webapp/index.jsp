@@ -850,12 +850,12 @@
             </div>
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-laptop"></i></div>
-                <h3>Laptops</h3>
+                <h3>LAPTOPS</h3>
                 <p>Powerful machines for work & play</p>
             </div>
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-tshirt"></i></div>
-                <h3>Clothes</h3>
+                <h3>ClotheS</h3>
                 <p>Trendy outfits for every occasion</p>
             </div>
             <div class="category-card">
