@@ -786,7 +786,7 @@
     <!-- Header -->
     <header>
         <div class="container header-container">
-            <a href="#" class="logo">Shopers Page</span></a>
+            <a href="#" class="logo">Shopping Cart</span></a>
             
             <nav id="mainNav">
                 <ul>
@@ -866,7 +866,7 @@
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-shoe-prints"></i></div>
                 <h3>Footwear</h3>
-                <p>Comfortable & stylish shoes</p>
+                <p>Comfortable & stylish FootWare</p>
             </div>
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-watch"></i></div>
