@@ -681,7 +681,7 @@
         <!-- Newsletter -->
         <section class="section container" aria-labelledby="news-title">
             <div class="newsletter" id="newsletter">
-                <h3 id="news-title">Stay in the loop</h3>
+                <h3 id="news-title">Stay updated</h3>
                 <p>Subscribe to get exclusive offers & new arrivals</p>
                 <form id="newsletterForm" style="display:flex;justify-content:center;gap:8px;flex-wrap:wrap;" onsubmit="return false;">
                     <emnput id="newsletterEmail" type="email" placeholder="Enter your email" aria-label="Email address" required>
